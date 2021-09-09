@@ -233,7 +233,7 @@ module.exports = {
     {
       type: "category",
       label: "Tutorials",
-      items: ["develop/pos-using-metamask", "develop/plasma-using-metamask"],
+      items: ["develop/pos-using-metamask", "develop/plasma-using-metamask", "develop/nft-tutorial"],
     },
     {
       type: "category",
